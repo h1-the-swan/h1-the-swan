@@ -9,7 +9,7 @@ I am a New York City-based data scientist PhD with experience in:
 - network analysis
 - natural language processing
 
-I mostly use Python and Typescript React.
+I mostly use Python and Typescript React/Vue.
 
 Check out my personal website at https://www.jasport.org
 
