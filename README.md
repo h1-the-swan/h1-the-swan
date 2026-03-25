@@ -12,7 +12,3 @@ I am a New York City-based data scientist PhD with experience in:
 I mostly use Python and Typescript React/Vue.
 
 Check out my personal website at https://www.jasport.org
-
-------------------------------------------------------------
-
-More coming soon!
